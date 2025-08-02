@@ -1,10 +1,11 @@
-# juhawilppu.fi
+# juhawilppu.com
 
-This is the source code for my personal website: [https://juhawilppu.fi](https://juhawilppu.fi)
+This is the source code for my personal website:
+👉 [https://juhawilppu.com](https://juhawilppu.com)
 
-The site is intentionally minimal — just HTML and CSS — and acts as a landing page for my professional profile, CV, and selected projects.
+The site is intentionally minimal — just HTML and CSS — and acts as a landing page for my profile, CV, and selected projects.
 
-### 🛠️ Tech Stack
-- Plain HTML + CSS
-- Deployed via `rsync` using a small shell script
-- Hosted on a personal Linux server
+## 🛠️ Tech Stack
+- **HTML & CSS** – no frameworks, no JavaScript
+- **GitHub** – version control and source repository
+- **Cloudflare Pages** – fast, free static site hosting with custom domain support
